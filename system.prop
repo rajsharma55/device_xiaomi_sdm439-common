@@ -1,3 +1,7 @@
+# DPM
+persist.vendor.dpm.feature=1
+persist.vendor.dpm.loglevel=0
+
 # Fwk detect
 ro.vendor.qti.va_aosp.support=1
 # Disable blur on app launch
